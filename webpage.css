@@ -1,0 +1,21 @@
+header{
+        display:flex;
+        justify-content: center;
+        background-size: cover;
+        color: green;
+        padding: 1em;
+        margin: auto auto;
+        align-items: baseline;
+        font-size: 35px;
+} 
+
+nav ul{ 
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        list-style: none;
+        background: cornflowerblue;
+        padding: 1em;
+
+      }
